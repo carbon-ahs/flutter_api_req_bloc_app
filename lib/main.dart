@@ -1,7 +1,6 @@
 import 'package:api_request_bloc_app/features/post/ui/post_page.dart';
 import 'package:flutter/material.dart';
 
-import 'features/home/home_page.dart';
 
 void main() async {
   runApp(MyApp());
